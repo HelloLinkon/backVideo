@@ -1,0 +1,27 @@
+"name": "backVideo",
+  "title": "backVideo",
+  "description": "Fixed Background video for landing page",
+  "keywords": [
+    "jquery-plugins",
+    "backVideo",
+    "Background video"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Linkon Islam",
+    "url": "https://github.com/HelloLinkon"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "",
+  "homepage": "",
+  "docs": "",
+  "download": "",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
